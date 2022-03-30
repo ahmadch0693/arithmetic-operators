@@ -1,0 +1,1031 @@
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int a, b;
+
+	cout << "Please enter a number " << endl;
+
+	cin >> a;
+
+	cout << endl;
+
+	cout << "Please enter the second number " << endl;
+	cin >> b;
+
+
+	int sum = a + b;
+
+	cout << endl;
+
+	cout << sum << endl;
+
+	int difference = a - b;
+
+	cout << endl;
+
+	cout << difference << endl;
+
+	int product = a * b;
+
+	cout << endl;
+
+	cout << product << endl;
+
+
+	int quotient = a / b;
+
+	cout << endl;
+
+	cout << quotient << endl;
+
+	int modulo = a % b;
+
+
+	cout << endl;
+
+	cout << modulo << endl;
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+PROBLEM NUMBER : #7
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int a;
+
+	cout << endl;
+
+	cout << "Please enter a number " << endl;
+	 
+	cout << endl;
+ 
+	cin >> a ;
+
+	cout << endl;
+
+	int quotient = a / 2;
+
+	cout << endl;
+
+	cout << quotient << endl;
+
+	cout << endl;
+
+
+
+	
+	return 0;
+}
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #9 
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int a, b, c;
+
+	cout << endl;
+
+	cout << "Please enter the first number  " << endl;
+	 
+	cout << endl;
+ 
+	cin >> a ;
+
+	cout << endl;
+
+	cout << "Please enter the second  number  " << endl;
+
+	cout << endl;
+
+	cin >> b;
+
+
+	cout << "Please enter the third  number  " << endl;
+
+	cout << endl;
+
+	cin >> c;
+
+	int sum  = a + b + c;
+
+	cout << endl;
+
+	cout << sum << endl;
+
+	cout << endl;
+
+
+
+	
+	return 0;
+}
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #10
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int a, b;
+
+	cout << endl;
+
+	cout << "Please enter the first number  " << endl;
+	 
+	cout << endl;
+ 
+	cin >> a ;
+
+	cout << endl;
+
+	cout << "Please enter the second  number  " << endl;
+
+	cout << endl;
+
+	cin >> b;
+
+
+	cout << endl;
+
+
+	cout << b << endl;
+
+	cout << endl;
+
+	cout << a << endl;
+
+
+	
+	return 0;
+}
+
+
+
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #14
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int a, b;
+
+	cout << endl;
+
+	cout << "Please enter the first number  " << endl;
+	 
+	cout << endl;
+ 
+	cin >> a ;
+
+	cout << endl;
+
+	cout << "Please enter the second  number  " << endl;
+
+	cout << endl;
+
+	cin >> b;
+
+
+	cout << endl;
+
+
+	cout << b << endl;
+
+	cout << endl;
+
+	cout << a << endl;
+
+
+	
+	return 0;
+}
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #15
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int FirstNUmber;
+	int SecondNumber;
+	
+
+	cout << endl;
+
+	cout << "Please enter the first number " << endl;
+	 
+	cout << endl;
+ 
+	cin >> FirstNUmber ;
+
+	cout << endl;
+
+	cout << "Please enter the SecondNumber " << endl;
+
+	cout << endl;
+
+	cin >> SecondNumber;
+
+	cout << endl;
+
+	int Area = FirstNUmber * SecondNumber;
+
+	cout << Area << endl; 
+
+	
+
+
+
+	
+	return 0;
+}
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #17
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int Base;
+	int Height;
+	
+
+	cout << endl;
+
+	cout << "Please enter the base " << endl;
+	 
+	cout << endl;
+ 
+	cin >> Base ;
+
+	cout << endl;
+
+	cout << "Please enter the height " << endl;
+
+	cout << endl;
+
+	cin >> Height;
+
+	cout << endl;
+
+	int Area =  Base/2 * Height;
+
+	cout << Area; 
+
+	
+	return 0;
+}
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #19
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+int main()
+
+{
+
+	int D;
+
+	int PI = 3.14;
+	
+
+	cout << endl;
+
+	cout << "Please enter the number  " << endl;
+	 
+	cout << endl;
+ 
+	cin >> D ;
+
+
+	cout << endl;
+
+	int Area =  (PI * D * D) / 4;
+
+	cout << Area; 
+
+
+	
+	return 0;
+}
+
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #20
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int A;
+
+	int PI = 3.14;
+	
+
+	cout << endl;
+
+	cout << "Please enter the number  " << endl;
+	 
+	cout << endl;
+ 
+	cin >> A ;
+
+
+	cout << endl;
+
+	int Area =  (PI * (A * A) ) / 4;
+
+	cout << Area; 
+
+
+	
+	return 0;
+}
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #21
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int L;
+
+	int PI = 3.14;
+	
+
+	cout << endl;
+
+	cout << "Please enter the number  " << endl;
+	 
+	cout << endl;
+ 
+	cin >> L ;
+
+
+	cout << endl;
+
+	int Area =  (L * L ) / (4 * PI);
+
+	cout << Area; 
+
+
+	
+	return 0;
+}
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #22
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int a, b;
+
+	int PI = 3.14;
+
+
+
+    cout << endl;
+
+	cout << "Please enter the first number " << endl;
+	 
+	cout << endl;
+ 
+	cin >> a ;
+
+	cout << endl;
+	
+	cout << "Please enter the second number " << endl;
+	
+	cout << endl;
+
+	cin >> b;
+
+	cout << endl;
+
+	int Area = ((PI * b * b / 4) * ((2 * a - b)) / (2 * a + b));
+
+	cout << Area; 
+
+	return 0;
+}
+
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #31
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int a;
+
+	
+	
+	cout << endl;
+
+	cout << "Please enter a  number " << endl;
+	 
+	cout << endl;
+ 
+	cin >> a ;
+
+	cout << endl;
+	
+	int Product1 = a * a;
+
+	cout << Product1;
+
+
+	cout << endl;
+
+	int Product2 = a * a * a;
+
+	cout << Product2;
+
+
+	cout << endl;
+
+	int Product3 = a * a * a * a;
+
+	cout << Product3;
+
+	cout << endl;
+
+	
+	
+	return 0;
+}
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #35
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int Penny = 1;
+	int Nickel = Penny * 5; 
+	int Dime  = Penny * 10;
+	int Quarter = Penny * 25;
+	int Dollar = Penny * 100;
+
+	
+	cout << endl;
+
+	cout << "Please enter the Penny's number " << endl;
+
+	cout << endl;
+
+	cin >> Penny;
+
+	cout << endl;
+
+	cout << "Please enter Nickel's number " << endl;
+
+	cout << endl;
+
+	cin >> Nickel;
+
+	cout << endl;
+
+	cout << endl;
+
+	cout << "Please enter Dime's number " << endl;
+
+	cout << endl;
+
+	cin >> Dime;
+
+	cout << endl;
+
+	cout << endl;
+
+	cout << "Please enter Quarter's number " << endl;
+
+	cout << endl;
+
+	cin >> Quarter;
+
+	cout << endl;
+
+	cout << endl;
+
+	cout << "Please enter Dollar's number " << endl;
+
+	cout << endl;
+
+	cin >> Dollar;
+
+	cout << endl;
+
+
+	int TotalPenny = (1 + 5 + 10 + 25 + 100) * 5;
+
+	cout << TotalPenny;
+
+	cout << endl;
+
+	int TotalDollar = TotalPenny / 100;
+
+	cout << TotalDollar;
+
+
+	return 0;
+}
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #39
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int TotalBill;
+	int CashPaid;
+
+
+	cout << endl;
+
+	cout << "Enter the cash paid " << endl;
+
+	cout << endl;
+
+	cin >> CashPaid;
+
+	
+
+	cout << endl;
+
+	cout << "Enter the total bill " << endl;
+
+	cout << endl;
+
+	cin >> TotalBill;
+
+
+	cout << endl;
+
+
+	int Remainder = TotalBill - CashPaid;
+
+	cout << endl;
+
+	cout << Remainder;
+
+	cout << endl;
+
+
+	return 0;
+}
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #40
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+
+	int BillValue;
+	int Charge = 1.1;
+	int Fee = 1.16;
+	
+
+	cout << endl;
+
+	cout << "Enter The bill value " << endl;
+
+	cout << endl;
+
+	cin >> BillValue;
+
+	cout << endl;
+
+	int TotalBill = BillValue * 1.1 * 1.16;
+
+
+	cout << endl;
+
+	cout << TotalBill;
+
+	cout << endl;
+
+
+
+
+
+
+
+	return 0;
+}
+
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #42
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+
+	int NumberOfDays;
+	int NumberOfHours;
+	int NumberOfMinutes;
+	int NumberOfSeconds;
+
+
+	cout << endl;
+
+	cout << "Enter the days numnber " << endl;
+
+	cout << endl;
+
+	cin >> NumberOfDays;
+
+
+	cout << endl;
+
+	cout << "Enter the hours number " << endl;
+
+	cout << endl;
+
+	cin >> NumberOfHours;
+
+	cout << endl;
+
+	cout << "Enter the minutes number " << endl;
+
+	cout << endl;
+
+	
+	cin >> NumberOfMinutes;
+
+	cout << endl;
+
+	cout << "Enter the seconds number " << endl;
+
+	cout << endl;
+
+	cin >> NumberOfSeconds;
+
+	cout << endl;
+
+
+	int TotalSeconds = (NumberOfDays * 24 * 60 * 60) + (NumberOfHours * 60 * 60) + (NumberOfMinutes * 60) + NumberOfSeconds;
+
+
+	cout << endl;
+
+
+	cout << TotalSeconds;
+
+	cout << endl;
+
+
+
+
+	return 0;
+}
+
+
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #43
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int TotalSeconds = 193535;
+	int SecondsPerDay = 24*60*60;
+	int SecondsPerHour = 60*60;
+	int SecondsPerMinutes = 60;
+
+	cout << endl;
+
+	int NumberOfDays = TotalSeconds / SecondsPerDay;
+
+	cout << endl;
+
+
+	cout << endl;
+
+	int DaysRemainder = TotalSeconds % SecondsPerDay;
+
+	cout << endl;
+
+	int NumberOfHours = DaysRemainder / SecondsPerHour;
+	
+	cout << endl;
+
+
+	cout << endl;
+
+	int HoursRemainder  =  DaysRemainder % SecondsPerHour;
+
+	cout << endl;
+
+	
+
+	int NumberOfMinutes = HoursRemainder / SecondsPerMinutes;
+
+	cout << endl;
+
+
+	cout << endl;
+
+	int NumberOfSeconds = HoursRemainder % SecondsPerMinutes;
+
+	cout << endl;
+
+
+
+	cout << NumberOfDays << ": " << NumberOfHours << ": " << NumberOfMinutes << ": " << NumberOfSeconds << endl;
+
+	cout << endl;
+
+
+	return 0;
+}
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #47
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int LoanAmount;
+	int MonthlyPayment;
+
+
+	cout << endl;
+
+	cout << "Enter the loan amount " << endl;
+
+	cout << endl;
+
+	cin >> LoanAmount;
+
+	cout << endl;
+
+	cout << "Enter the monthly payment " << endl;
+
+	cout << endl;
+
+	cin >> MonthlyPayment;
+
+	cout << endl;
+
+	int NumberOfMonths = LoanAmount / MonthlyPayment;
+
+	cout << endl;
+
+	cout << NumberOfMonths;
+
+
+	cout << endl;
+
+
+
+	return 0;
+}
+
+
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+PROBLEM NUMBER : #48
+
+/****************************************************************************************/
+/****************************************************************************************/
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int LoanAmount;
+	int MonthlyInstallement;
+
+
+	cout << endl;
+
+	cout << "Enter the loan amount " << endl;
+
+	cout << endl;
+
+	cin >> LoanAmount;
+
+	cout << endl;
+
+	cout << "Enter the month installement " << endl;
+
+	cout << endl;
+
+	cin >> MonthlyInstallement;
+
+	cout << endl;
+
+	int AmoutPerMonth = LoanAmount / MonthlyInstallement;
+
+	cout << endl;
+
+	cout << AmoutPerMonth;
+
+
+	cout << endl;
+
+
+
+	return 0;
+}
+
+
